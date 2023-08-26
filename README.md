@@ -7,6 +7,8 @@
 
 ## 1. GitHub Stats
 
+https://github-readme-streak-stats.herokuapp.com/?user=aboobakurusuheyl
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aboobakurusuheyl&show_icons=true)
 
 ## 2. Most Used Languages

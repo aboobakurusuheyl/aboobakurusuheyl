@@ -5,15 +5,6 @@
 </div>
 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=aboobakurusuheyl)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
-
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-
 ## 1. GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aboobakurusuheyl&show_icons=true)

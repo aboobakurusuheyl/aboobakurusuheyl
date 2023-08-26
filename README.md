@@ -7,7 +7,7 @@
 
 ## 1. GitHub Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=aboobakurusuheyl
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aboobakurusuheyl&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aboobakurusuheyl&show_icons=true)
 

@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   
-  ## 1. GitHub Stats
+## 1. GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aboobakurusuheyl&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aboobakurusuheyl&show_icons=true)
